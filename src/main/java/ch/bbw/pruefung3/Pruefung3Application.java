@@ -1,0 +1,13 @@
+package ch.bbw.pruefung3;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Pruefung3Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Pruefung3Application.class, args);
+    }
+
+}
